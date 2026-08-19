@@ -101,7 +101,7 @@ phonepe-transaction-dashboard/
 
 ## 👤 Author
 
-**Muskan Kumari**
+**ASHISH KUMAR GAUTAM**
 
-**Linkedin -** www.linkedin.com/in/muskan-kumari-818789282
-**Email -** [musumishra001@gmail.com]
+**Linkedin -** www.linkedin.com/in/akgautam1205
+**Email -** [akgautam1205@gmail.com]
